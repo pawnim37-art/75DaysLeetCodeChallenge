@@ -8,30 +8,26 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        // Step 2: Create buckets
-        List<Integer>[] bucket = new List[nums.length + 1];
-        for (int key : map.keySet()) {
-            int freq = map.get(key);
-            if (bucket[freq] == null) {
-                bucket[freq] = new ArrayList<>();
-            }
-            bucket[freq].add(key);
-        }
+        // Step 2: Min Heap based on frequency
+        PriorityQueue<Integer> pq = new PriorityQueue<>(
+            (a, b) -> map.get(a) - map.get(b)
+        );
 
-        // Step 3: Collect top k frequent elements
-        List<Integer> result = new ArrayList<>();
-        for (int i = bucket.length - 1; i >= 0 && result.size() < k; i--) {
-            if (bucket[i] != null) {
-                result.addAll(bucket[i]);
+        // Step 3: Keep only top k elements
+        for (int num : map.keySet()) {
+            pq.add(num);
+            if (pq.size() > k) {
+                pq.poll(); // remove least frequent
             }
         }
 
-        // Step 4: Convert to array
-        int[] res = new int[k];
-        for (int i = 0; i < k; i++) {
-            res[i] = result.get(i);
+        // Step 4: Build result array
+        int[] result = new int[k];
+        int i = 0;
+        while (!pq.isEmpty()) {
+            result[i++] = pq.poll();
         }
 
-        return res;
+        return result;
     }
 }

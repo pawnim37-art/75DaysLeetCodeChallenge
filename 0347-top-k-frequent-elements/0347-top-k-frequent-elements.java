@@ -2,6 +2,7 @@ import java.util.*;
 
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
+        
         // Step 1: Count frequency
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
@@ -13,7 +14,7 @@ class Solution {
             (a, b) -> map.get(a) - map.get(b)
         );
 
-        // Step 3: Keep only top k elements
+        // Step 3: Keep only k elements in heap
         for (int num : map.keySet()) {
             pq.add(num);
             if (pq.size() > k) {

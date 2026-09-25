@@ -62,6 +62,7 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +75,20 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->

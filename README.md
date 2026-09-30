@@ -67,6 +67,7 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ DSA-Challenge/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -91,4 +93,12 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
 <!---LeetCode Topics End-->

@@ -62,6 +62,7 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ DSA-Challenge/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
@@ -100,5 +102,18 @@ DSA-Challenge/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

@@ -68,6 +68,7 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -116,4 +118,16 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->

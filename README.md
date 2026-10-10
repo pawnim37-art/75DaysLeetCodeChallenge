@@ -82,6 +82,7 @@ DSA-Challenge/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -134,5 +135,6 @@ DSA-Challenge/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->

@@ -63,6 +63,7 @@ DSA-Challenge/
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -130,4 +131,8 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->

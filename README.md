@@ -137,4 +137,5 @@ DSA-Challenge/
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0191-number-of-1-bits/) | Easy |
+| [0201-bitwise-and-of-numbers-range](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 <!---LeetCode Topics End-->

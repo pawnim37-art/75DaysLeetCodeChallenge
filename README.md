@@ -142,4 +142,5 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0009-palindrome-number/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 <!---LeetCode Topics End-->

@@ -142,5 +142,14 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->

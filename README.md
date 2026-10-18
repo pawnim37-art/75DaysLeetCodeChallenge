@@ -89,6 +89,7 @@ DSA-Challenge/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -143,6 +144,7 @@ DSA-Challenge/
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0009-palindrome-number/) | Easy |
 | [0069-sqrtx](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -152,4 +154,8 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->

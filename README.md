@@ -83,6 +83,7 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0137-single-number-ii/) | Medium |
+| [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
@@ -91,6 +92,7 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
@@ -114,6 +116,7 @@ DSA-Challenge/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -160,4 +163,17 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->

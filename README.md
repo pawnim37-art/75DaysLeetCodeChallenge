@@ -84,12 +84,14 @@ DSA-Challenge/
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
+| [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
 | Problem Name | Difficulty |

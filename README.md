@@ -88,6 +88,7 @@ DSA-Challenge/
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
@@ -102,6 +103,7 @@ DSA-Challenge/
 | [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
+| [0221-maximal-square](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -209,4 +211,5 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0064-minimum-path-sum/) | Medium |
+| [0221-maximal-square](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0221-maximal-square/) | Medium |
 <!---LeetCode Topics End-->

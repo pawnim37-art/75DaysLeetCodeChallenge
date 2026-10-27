@@ -82,6 +82,7 @@ DSA-Challenge/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0064-minimum-path-sum/) | Medium |
 | [0137-single-number-ii](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
@@ -93,6 +94,7 @@ DSA-Challenge/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
@@ -197,4 +199,8 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0064-minimum-path-sum/) | Medium |
 <!---LeetCode Topics End-->

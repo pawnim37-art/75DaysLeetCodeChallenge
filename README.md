@@ -86,6 +86,7 @@ DSA-Challenge/
 | [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0502-ipo](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0502-ipo/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -95,6 +96,7 @@ DSA-Challenge/
 | [0070-climbing-stairs](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Queue
@@ -157,6 +159,7 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0069-sqrtx/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +193,8 @@ DSA-Challenge/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0322-coin-change/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->

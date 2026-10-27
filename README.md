@@ -96,6 +96,7 @@ DSA-Challenge/
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 | [0198-house-robber](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0198-house-robber/) | Medium |
@@ -175,6 +176,7 @@ DSA-Challenge/
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0097-interleaving-string/) | Medium |
 | [0139-word-break](https://github.com/pawnim37-art/75DaysLeetCodeChallenge/tree/main/0139-word-break/) | Medium |
 ## Trie
